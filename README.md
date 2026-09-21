@@ -10,7 +10,10 @@ The complete data, code, results, and supporting materials will be made publicly
 available upon request or acceptance of the associated manuscript, whichever
 comes first.
 
-## Layout
+## Full project layout
+
+The following is the layout of the complete project. The data, code, outputs,
+and supporting files shown below are not included in the current public release.
 
 ```text
 .
