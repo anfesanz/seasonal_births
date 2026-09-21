@@ -15,13 +15,13 @@ comes first.
 .
 ├── config.yaml
 ├── data/                 # Input CSV files
-├── docs/                 # Notes and supporting documentation
-├── output/               # Generated tables, plots, and forecasts
+├── docs/                 # Supporting documentation
+├── output/               # Tables and plots
 ├── scripts/
-│   ├── run_analysis.py   # Python forecasting workflow
-│   ├── seasonality_analysis.R
+│   ├── run_analysis.py   # Forecasting workflow
+│   ├── seasonality_analysis.R # Manual checks
 │   └── install.sh
-├── src/                  # Reusable Python modules
+├── src/                  # Python modules
 └── requirements.txt
 ```
 
@@ -30,4 +30,4 @@ comes first.
 The current public release is intentionally limited to the abstract. The full
 data, source code, analysis outputs, and supporting materials are retained by
 the authors and will be made available upon request or acceptance of the
-associated manuscript.
+associated manuscript. Feel free to contact us for any further information. 
